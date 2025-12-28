@@ -1,90 +1,48 @@
-<!-- ================================================= -->
-<!-- ================== HERO BANNER ================== -->
-<!-- ================================================= -->
-<!-- Typing SVG Banner -->
-<p align="center">
-  <img 
-    src="https://readme-typing-svg.herokuapp.com?
-    font=Fira+Code
-    &pause=1000
-    &color=61DAFB
-    &center=true
-    &vCenter=true
-    &width=750
-    &lines=Hi%2C+I'm+Saim+Afzal+👋;
-    Software+Development+Engineer+%7C+Frontend+Developer;
-    AI+Enthusiast+%7C+React+%7C+Next.js;
-    Crafting+Clean+%26+Impactful+Web+Experiences+🚀"
-    alt="Typing SVG"
-  />
-</p>
-
+# 👋 Hi, I'm Saim Afzal
+### 💻 Software Development Engineer | Frontend Developer | AI Enthusiast
 
 ---
 
-## 🌟 About Me
-- 🔭 **Working on:** React & Next.js web applications  
-- 👯 **Collaborate on:** Frontend & UI-focused projects  
-- 🤝 **Help with:** React architecture & best practices  
-- 🌱 **Currently learning:** Advanced React & modern web development  
-- 💬 **Ask me about:** JavaScript, React, Next.js  
-- ⚡ **Fun fact:** I love clean, smooth & interactive UIs  
+# 💫 About Me:
+🔭 Working on: React & Next.js web apps  
+👯 Collaborate on: Frontend projects  
+🤝 Help with: React architecture & best practices  
+🌱 Learning: Advanced React & modern web development  
+💬 Ask me about: JavaScript, React, Next.js  
+⚡ Fun fact: I love clean and interactive UIs  
 
 ---
 
-## 🌐 Connect With Me
-<p align="center">
-  <a href="https://instagram.com/saimhere61">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
-  </a>
-  <a href="https://linkedin.com/in/saim-afzal-2862a235a">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
-  </a>
-  <a href="mailto:saimafzal142@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
-  </a>
-</p>
+## 🌐 Socials:
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/saimhere61) 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/saim-afzal-2862a235a) 
+[![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:saimafzal142@gmail.com) 
 
 ---
 
-## 💻 Tech Stack
+# 💻 Tech Stack:
+### **AI / ML / NLP**
+![Machine Learning](https://img.shields.io/badge/Machine%20Learning-%23007ACC.svg?style=for-the-badge&logo=TensorFlow&logoColor=white)
+![Deep Learning](https://img.shields.io/badge/Deep%20Learning-%23FF6F00.svg?style=for-the-badge&logo=PyTorch&logoColor=white)
+![Natural Language Processing](https://img.shields.io/badge/NLP-%23FF6F00.svg?style=for-the-badge&logo=Keras&logoColor=white)
 
-### 🤖 AI / ML / NLP
-<p>
-  <img src="https://img.shields.io/badge/Machine%20Learning-007ACC?style=for-the-badge&logo=tensorflow&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Deep%20Learning-FF6F00?style=for-the-badge&logo=pytorch&logoColor=white"/>
-  <img src="https://img.shields.io/badge/NLP-FF6F00?style=for-the-badge&logo=keras&logoColor=white"/>
-</p>
-
-### 🎨 Frontend Development
-<p>
-  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
-  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white"/>
-  <img src="https://img.shields.io/badge/TailwindCSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white"/>
-  <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E"/>
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
-</p>
+### **Frontend Development**
+![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white)
+![React](https://img.shields.io/badge/React-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 
 ---
 
-## 📊 GitHub Stats
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=saimafzal111&show_icons=true&theme=dark&hide_border=true" height="170"/>
-  <img src="https://streak-stats.demolab.com?user=saimafzal111&theme=dark&hide_border=true" height="170"/>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=saimafzal111&layout=compact&theme=dark&hide_border=true"/>
-</p>
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=saimafzal111&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=saimafzal111&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=saimafzal111&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 ---
 
-## 👀 Profile Views
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=saimafzal111&style=flat-square&color=61DAFB"/>
-</p>
+[![](https://visitcount.itsvg.in/api?id=saimafzal111&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- ================================================= -->
-<!-- ==================== END ======================== -->
-<!-- ================================================= -->
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
