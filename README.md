@@ -1,54 +1,43 @@
-# 👋 Hi, I'm <span style="color:#61DAFB">Saim Afzal</span>
-### 💻 Software Development Engineer | Frontend Developer | AI Enthusiast
+# 👋 Hi, I'm <span style="background:linear-gradient(90deg,#61DAFB,#FF6F00,#FF0080);-webkit-background-clip:text;color:transparent;">Saim Afzal</span>
 
-<!-- Animated Typing Effect -->
-<p align="left">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&pause=1000&color=61DAFB&width=600&lines=Machine+Learning+%7C+Deep+Learning+%7C+NLP+%7C+React+Developer" alt="Typing Animation" />
+<!-- Animated Typing Header -->
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&pause=1000&color=61DAFB&width=800&lines=Software+Development+Engineer+%7C+Frontend+Developer+%7C+AI+Enthusiast" alt="Typing Animation"/>
 </p>
 
 ---
 
-# 💫 About Me:
-🔭 Working on: React & Next.js web apps  
-👯 Collaborate on: Frontend projects  
-🤝 Help with: React architecture & best practices  
-🌱 Learning: Advanced React & modern web development  
-💬 Ask me about: JavaScript, React, Next.js  
-⚡ Fun fact: I love clean and interactive UIs  
+<!-- Animated Skills -->
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=800&color=FF6F00&width=700&lines=Machine+Learning+%7C+Deep+Learning+%7C+Natural+Language+Processing" alt="AI Skills Typing"/>
+</p>
+
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=800&color=61DAFB&width=700&lines=Next.js+%7C+React.js+%7C+Tailwind+CSS+%7C+HTML5+%7C+CSS3+%7C+JavaScript" alt="Frontend Skills Typing"/>
+</p>
 
 ---
 
 ## 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white&style=for-the-badge&animation=spin)](https://instagram.com/saimhere61) 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white&style=for-the-badge&animation=spin)](https://linkedin.com/in/saim-afzal-2862a235a) 
-[![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white&style=for-the-badge&animation=spin)](mailto:saimafzal142@gmail.com)  
+<p align="center">
+  [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white&style=for-the-badge&animation=spin)](https://instagram.com/saimhere61)
+  [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white&style=for-the-badge&animation=spin)](https://linkedin.com/in/saim-afzal-2862a235a)
+  [![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white&style=for-the-badge&animation=spin)](mailto:saimafzal142@gmail.com)
+</p>
 
 ---
 
-# 💻 Tech Stack:
-
-### **AI / ML / NLP**
-![Machine Learning](https://img.shields.io/badge/Machine%20Learning-%23007ACC.svg?style=for-the-badge&logo=TensorFlow&logoColor=white)  
-![Deep Learning](https://img.shields.io/badge/Deep%20Learning-%23FF6F00.svg?style=for-the-badge&logo=PyTorch&logoColor=white)  
-![Natural Language Processing](https://img.shields.io/badge/NLP-%23FF6F00.svg?style=for-the-badge&logo=Keras&logoColor=white)
-
-### **Frontend Development**
-![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white&animation=glow)  
-![React](https://img.shields.io/badge/React-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB&animation=glow)  
-![Tailwind CSS](https://img.shields.io/badge/Tailwind-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white&animation=glow)  
-![HTML5](https://img.shields.io/badge/HTML5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)  
-![CSS3](https://img.shields.io/badge/CSS3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)  
-![JavaScript](https://img.shields.io/badge/JavaScript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+## 📊 GitHub Stats:
+<p align="center">
+  ![](https://github-readme-stats.vercel.app/api?username=saimafzal111&theme=dark&hide_border=false&show_icons=true&count_private=true&include_all_commits=true&line_height=30)<br/>
+  ![](https://nirzak-streak-stats.vercel.app/?user=saimafzal111&theme=dark&hide_border=false&animation=true)<br/>
+  ![](https://github-readme-stats.vercel.app/api/top-langs/?username=saimafzal111&theme=dark&hide_border=false&layout=compact&animation=true)
+</p>
 
 ---
 
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=saimafzal111&theme=dark&hide_border=false&show_icons=true&count_private=true&include_all_commits=true&line_height=30)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=saimafzal111&theme=dark&hide_border=false&animation=true)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=saimafzal111&theme=dark&hide_border=false&layout=compact&animation=true)
-
----
-
-[![](https://visitcount.itsvg.in/api?id=saimafzal111&icon=0&color=0)](https://visitcount.itsvg.in)
+<p align="center">
+  [![](https://visitcount.itsvg.in/api?id=saimafzal111&icon=0&color=0)](https://visitcount.itsvg.in)
+</p>
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
