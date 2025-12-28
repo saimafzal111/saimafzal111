@@ -68,41 +68,21 @@
 
 ---
 
-## 🌟 Featured Projects
-
-### 🚀 React Admin Dashboard
-- Modern responsive dashboard  
-- Reusable components & clean UI  
-- **Tech:** React, Tailwind CSS  
-
-### 🌐 Next.js Portfolio Website
-- SEO optimized & fast performance  
-- Modern layout with animations  
-- **Tech:** Next.js, JavaScript, CSS  
-
-### 🤖 AI Text Analysis Tool
-- NLP-based text classification  
-- Clean frontend with ML integration  
-- **Tech:** Python, NLP, React  
-
-> 🔗 *Projects can be linked to GitHub repositories anytime*
-
----
-
 ## 📊 GitHub Stats
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=saimafzal111&show_icons=true&theme=dark&hide_border=false" height="170"/>
-  <img src="https://nirzak-streak-stats.vercel.app/?user=saimafzal111&theme=dark&hide_border=false" height="170"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=saimafzal111&show_icons=true&theme=dark&hide_border=true" height="170"/>
+  <img src="https://streak-stats.demolab.com?user=saimafzal111&theme=dark&hide_border=true" height="170"/>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=saimafzal111&layout=compact&theme=dark&hide_border=false"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=saimafzal111&layout=compact&theme=dark&hide_border=true"/>
 </p>
 
 ---
 
+## 👀 Profile Views
 <p align="center">
-  <img src="https://visitcount.itsvg.in/api?id=saimafzal111&icon=0&color=0"/>
+  <img src="https://komarev.com/ghpvc/?username=saimafzal111&style=flat-square&color=61DAFB"/>
 </p>
 
 <!-- ================================================= -->
