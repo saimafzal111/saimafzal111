@@ -1,24 +1,24 @@
 <!-- ================================================= -->
 <!-- ================== HERO BANNER ================== -->
 <!-- ================================================= -->
+<!-- Typing SVG Banner -->
 <p align="center">
   <img 
     src="https://readme-typing-svg.herokuapp.com?
     font=Fira+Code
-    &size=32
-    &pause=1300
+    &pause=1000
     &color=61DAFB
     &center=true
     &vCenter=true
-    &width=950
-    &lines=Hi%2C+I%27m+Saim+Afzal+👋;
-    Software+Development+Engineer;
-    Frontend+Developer+%7C+React+%7C+Next.js;
-    AI+%26+ML+Enthusiast;
-    Building+Clean+%26+Interactive+User+Interfaces+🚀"
+    &width=750
+    &lines=Hi%2C+I'm+Saim+Afzal+👋;
+    Software+Development+Engineer+%7C+Frontend+Developer;
+    AI+Enthusiast+%7C+React+%7C+Next.js;
+    Crafting+Clean+%26+Impactful+Web+Experiences+🚀"
     alt="Typing SVG"
   />
 </p>
+
 
 ---
 
