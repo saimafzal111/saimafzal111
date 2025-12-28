@@ -1,9 +1,9 @@
 # 👋 Hi, I'm Saim Afzal
-### 💻 Software Development Engineer | Frontend Developer | AI Enthusiast
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=40&duration=3000&pause=500&color=00F0FF&center=true&vCenter=true&width=800&lines=Hi,+I'm+Saim+Afzal;Software+Development+Engineer+%7C+Frontend+Developer+%7C+AI+Enthusiast" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=40&duration=2000&pause=500&color=00F0FF&center=true&vCenter=true&width=800&lines=Software+Development+Engineer;Frontend+Developer;AI+Enthusiast" />
 </p>
+
 
 ---
 
