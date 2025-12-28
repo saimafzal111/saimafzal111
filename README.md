@@ -1,5 +1,10 @@
-# 👋 Hi, I'm Saim Afzal
+# 👋 Hi, I'm <span style="color:#61DAFB">Saim Afzal</span>
 ### 💻 Software Development Engineer | Frontend Developer | AI Enthusiast
+
+<!-- Animated Typing Effect -->
+<p align="left">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&pause=1000&color=61DAFB&width=600&lines=Machine+Learning+%7C+Deep+Learning+%7C+NLP+%7C+React+Developer" alt="Typing Animation" />
+</p>
 
 ---
 
@@ -16,7 +21,7 @@
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white&style=for-the-badge&animation=spin)](https://instagram.com/saimhere61) 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white&style=for-the-badge&animation=spin)](https://linkedin.com/in/saim-afzal-2862a235a) 
-[![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white&style=for-the-badge&animation=spin)](mailto:saimafzal142@gmail.com) 
+[![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white&style=for-the-badge&animation=spin)](mailto:saimafzal142@gmail.com)  
 
 ---
 
