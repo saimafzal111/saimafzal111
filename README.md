@@ -1,91 +1,43 @@
-<!-- ===================== TYPING SVG BANNER ===================== -->
+# 👋 Hi, I'm <span style="background:linear-gradient(90deg,#61DAFB,#FF6F00,#FF0080);-webkit-background-clip:text;color:transparent;">Saim Afzal</span>
+
+<!-- Animated Typing Header -->
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=61DAFB&center=true&vCenter=true&width=820&lines=Hi%2C+I'm+Saim+Afzal+👋;Software+Development+Engineer+%7C+Frontend+Developer;AI+%26+ML+Enthusiast+%7C+React+%7C+Next.js;Building+Clean+%26+Interactive+Web+Experiences+🚀" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&pause=1000&color=61DAFB&width=800&lines=Software+Development+Engineer+%7C+Frontend+Developer+%7C+AI+Enthusiast" alt="Typing Animation"/>
 </p>
 
 ---
 
-# 💻 About Me  
-✨ I’m a **Software Development Engineer & Frontend Developer** passionate about building modern, scalable, and user-friendly applications.  
-⚡ Tech focus: **React, Next.js, JavaScript, Tailwind CSS, AI & ML**.  
-🚀 I enjoy turning **ideas into real-world digital products** with clean UI & solid architecture.  
-
----
-
-# 🛠️ Tech Stack  
-
+<!-- Animated Skills -->
 <p align="center">
-  <a href="#"><img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" /></a>
-  <a href="#"><img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white" /></a>
-  <a href="#"><img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" /></a>
-  <a href="#"><img src="https://img.shields.io/badge/TailwindCSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" /></a>
-  <a href="#"><img src="https://img.shields.io/badge/Machine%20Learning-007ACC?style=for-the-badge&logo=tensorflow&logoColor=white" /></a>
-  <a href="#"><img src="https://img.shields.io/badge/Deep%20Learning-FF6F00?style=for-the-badge&logo=pytorch&logoColor=white" /></a>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=800&color=FF6F00&width=700&lines=Machine+Learning+%7C+Deep+Learning+%7C+Natural+Language+Processing" alt="AI Skills Typing"/>
 </p>
 
----
---- 
-
-# 🌟 Featured Projects
-
-<div style="display:grid; grid-template-columns: repeat(auto-fit, minmax(320px, 1fr)); gap:16px; align-items:start;">
-
-<!-- Card 1 -->
-<div style="border:1px solid rgba(97,218,251,0.18); border-radius:12px; padding:16px; box-shadow:0 6px 18px rgba(97,218,251,0.08); background:#fff;">
-  <h3>
-    <a href="#" style="text-decoration:none; color:#111;">React Dashboard</a>
-  </h3>
-  <p>Modern admin dashboard with reusable components.</p>
-  <p>
-    <img src="https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black"/>
-    <img src="https://img.shields.io/badge/TailwindCSS-38B2AC?style=flat&logo=tailwind-css&logoColor=white"/>
-  </p>
-</div>
-
-<!-- Card 2 -->
-<div style="border:1px solid rgba(97,218,251,0.18); border-radius:12px; padding:16px; box-shadow:0 6px 18px rgba(97,218,251,0.08); background:#fff;">
-  <h3>
-    <a href="#" style="text-decoration:none; color:#111;">Next.js Web App</a>
-  </h3>
-  <p>High-performance Next.js application with SEO optimization.</p>
-  <p>
-    <img src="https://img.shields.io/badge/Next.js-black?style=flat&logo=next.js&logoColor=white"/>
-    <img src="https://img.shields.io/badge/JavaScript-323330?style=flat&logo=javascript&logoColor=F7DF1E"/>
-  </p>
-</div>
-
-</div>
-
----
-
-# 📊 GitHub Insights  
-
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=saimafzal111&show_icons=true&theme=tokyonight&hide_border=true" height="160"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=saimafzal111&layout=compact&theme=tokyonight&hide_border=true" height="160"/>
-</p>  
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=saimafzal111&theme=tokyonight&hide_border=true" height="160" />
-</p>  
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=saimafzal111&theme=tokyo-night&hide_border=true&area=true" width="95%"/>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=800&color=61DAFB&width=700&lines=Next.js+%7C+React.js+%7C+Tailwind+CSS+%7C+HTML5+%7C+CSS3+%7C+JavaScript" alt="Frontend Skills Typing"/>
 </p>
 
 ---
 
-# 📫 Connect With Me  
-
+## 🌐 Socials:
 <p align="center">
-  <a href="https://instagram.com/saimhere61"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/></a>
-  <a href="https://linkedin.com/in/saim-afzal-2862a235a"><img src="https://img.shields.io/badge/LinkedIn-0077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-  <a href="mailto:saimafzal142@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+  [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white&style=for-the-badge&animation=spin)](https://instagram.com/saimhere61)
+  [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white&style=for-the-badge&animation=spin)](https://linkedin.com/in/saim-afzal-2862a235a)
+  [![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white&style=for-the-badge&animation=spin)](mailto:saimafzal142@gmail.com)
 </p>
 
 ---
 
-<p align="center">✨ Let’s build something impactful together! ✨</p>  
+## 📊 GitHub Stats:
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=saimafzal111&style=flat-square&color=61DAFB" alt="Profile Views" />
+  ![](https://github-readme-stats.vercel.app/api?username=saimafzal111&theme=dark&hide_border=false&show_icons=true&count_private=true&include_all_commits=true&line_height=30)<br/>
+  ![](https://nirzak-streak-stats.vercel.app/?user=saimafzal111&theme=dark&hide_border=false&animation=true)<br/>
+  ![](https://github-readme-stats.vercel.app/api/top-langs/?username=saimafzal111&theme=dark&hide_border=false&layout=compact&animation=true)
 </p>
+
+---
+
+<p align="center">
+  [![](https://visitcount.itsvg.in/api?id=saimafzal111&icon=0&color=0)](https://visitcount.itsvg.in)
+</p>
+
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
