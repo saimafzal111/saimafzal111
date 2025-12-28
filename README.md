@@ -1,96 +1,91 @@
-<!-- ========================================================= -->
-<!-- ===================== PROFILE BANNER ==================== -->
-<!-- ========================================================= -->
-
+<!-- ===================== TYPING SVG BANNER ===================== -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:61DAFB,100:0A192F&height=260&section=header&text=Welcome%20to%20my%20Profile&fontSize=40&fontColor=ffffff&animation=fadeIn&fontAlignY=35" />
-</p>
-
-<!-- ===================== SINGLE ANIMATION ===================== -->
-<p align="center">
-  <img 
-    src="https://readme-typing-svg.herokuapp.com?
-    font=Fira+Code
-    &size=26
-    &pause=1200
-    &color=61DAFB
-    &center=true
-    &vCenter=true
-    &width=900
-    &lines=Hi%2C+I%27m+Saim+Afzal;
-    Software+Development+Engineer;
-    Frontend+Developer;
-    AI+%26+ML+Enthusiast;
-    React.js+%7C+Next.js+%7C+Tailwind+CSS;
-    JavaScript+%7C+HTML+%7C+CSS;
-    Machine+Learning+%7C+Deep+Learning+%7C+NLP"
-    alt="Typing Animation"
-  />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=61DAFB&center=true&vCenter=true&width=820&lines=Hi%2C+I'm+Saim+Afzal+👋;Software+Development+Engineer+%7C+Frontend+Developer;AI+%26+ML+Enthusiast+%7C+React+%7C+Next.js;Building+Clean+%26+Interactive+Web+Experiences+🚀" alt="Typing SVG" />
 </p>
 
 ---
 
-## 🚀 About Me
-- 🔭 **Working on:** React & Next.js Web Applications  
-- 👯 **Collaborate on:** Frontend & UI Projects  
-- 🤝 **Help with:** React Architecture & Best Practices  
-- 🌱 **Currently Learning:** Advanced React & Modern Web Development  
-- 💬 **Ask me about:** JavaScript, React, Next.js  
-- ⚡ **Fun Fact:** I love clean & interactive UIs  
+# 💻 About Me  
+✨ I’m a **Software Development Engineer & Frontend Developer** passionate about building modern, scalable, and user-friendly applications.  
+⚡ Tech focus: **React, Next.js, JavaScript, Tailwind CSS, AI & ML**.  
+🚀 I enjoy turning **ideas into real-world digital products** with clean UI & solid architecture.  
 
 ---
 
-## 🌐 Connect With Me
+# 🛠️ Tech Stack  
+
 <p align="center">
-  <a href="https://instagram.com/saimhere61">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
-  </a>
-  <a href="https://linkedin.com/in/saim-afzal-2862a235a">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
-  </a>
-  <a href="mailto:saimafzal142@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
-  </a>
+  <a href="#"><img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" /></a>
+  <a href="#"><img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white" /></a>
+  <a href="#"><img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" /></a>
+  <a href="#"><img src="https://img.shields.io/badge/TailwindCSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" /></a>
+  <a href="#"><img src="https://img.shields.io/badge/Machine%20Learning-007ACC?style=for-the-badge&logo=tensorflow&logoColor=white" /></a>
+  <a href="#"><img src="https://img.shields.io/badge/Deep%20Learning-FF6F00?style=for-the-badge&logo=pytorch&logoColor=white" /></a>
+</p>
+
+---
+--- 
+
+# 🌟 Featured Projects
+
+<div style="display:grid; grid-template-columns: repeat(auto-fit, minmax(320px, 1fr)); gap:16px; align-items:start;">
+
+<!-- Card 1 -->
+<div style="border:1px solid rgba(97,218,251,0.18); border-radius:12px; padding:16px; box-shadow:0 6px 18px rgba(97,218,251,0.08); background:#fff;">
+  <h3>
+    <a href="#" style="text-decoration:none; color:#111;">React Dashboard</a>
+  </h3>
+  <p>Modern admin dashboard with reusable components.</p>
+  <p>
+    <img src="https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black"/>
+    <img src="https://img.shields.io/badge/TailwindCSS-38B2AC?style=flat&logo=tailwind-css&logoColor=white"/>
+  </p>
+</div>
+
+<!-- Card 2 -->
+<div style="border:1px solid rgba(97,218,251,0.18); border-radius:12px; padding:16px; box-shadow:0 6px 18px rgba(97,218,251,0.08); background:#fff;">
+  <h3>
+    <a href="#" style="text-decoration:none; color:#111;">Next.js Web App</a>
+  </h3>
+  <p>High-performance Next.js application with SEO optimization.</p>
+  <p>
+    <img src="https://img.shields.io/badge/Next.js-black?style=flat&logo=next.js&logoColor=white"/>
+    <img src="https://img.shields.io/badge/JavaScript-323330?style=flat&logo=javascript&logoColor=F7DF1E"/>
+  </p>
+</div>
+
+</div>
+
+---
+
+# 📊 GitHub Insights  
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=saimafzal111&show_icons=true&theme=tokyonight&hide_border=true" height="160"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=saimafzal111&layout=compact&theme=tokyonight&hide_border=true" height="160"/>
+</p>  
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=saimafzal111&theme=tokyonight&hide_border=true" height="160" />
+</p>  
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=saimafzal111&theme=tokyo-night&hide_border=true&area=true" width="95%"/>
 </p>
 
 ---
 
-## 💻 Tech Stack
-
-### 🎨 Frontend Development
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Next](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
-![Tailwind](https://img.shields.io/badge/Tailwind-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
-![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-
-### 🤖 AI / ML / NLP
-![Machine Learning](https://img.shields.io/badge/Machine%20Learning-007ACC?style=for-the-badge&logo=tensorflow&logoColor=white)
-![Deep Learning](https://img.shields.io/badge/Deep%20Learning-FF6F00?style=for-the-badge&logo=pytorch&logoColor=white)
-![NLP](https://img.shields.io/badge/NLP-FF6F00?style=for-the-badge&logo=keras&logoColor=white)
-
----
-
-## 📊 GitHub Stats
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=saimafzal111&show_icons=true&theme=dark&hide_border=false" height="170"/>
-  <img src="https://nirzak-streak-stats.vercel.app/?user=saimafzal111&theme=dark&hide_border=false" height="170"/>
-</p>
+# 📫 Connect With Me  
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=saimafzal111&layout=compact&theme=dark&hide_border=false"/>
+  <a href="https://instagram.com/saimhere61"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/></a>
+  <a href="https://linkedin.com/in/saim-afzal-2862a235a"><img src="https://img.shields.io/badge/LinkedIn-0077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+  <a href="mailto:saimafzal142@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
 </p>
 
 ---
 
+<p align="center">✨ Let’s build something impactful together! ✨</p>  
 <p align="center">
-  <img src="https://visitcount.itsvg.in/api?id=saimafzal111&icon=0&color=0"/>
+  <img src="https://komarev.com/ghpvc/?username=saimafzal111&style=flat-square&color=61DAFB" alt="Profile Views" />
 </p>
-
-<!-- ===================== FOOTER ===================== -->
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0A192F,100:61DAFB&height=120&section=footer"/>
-</p>
-
-<!-- Proudly crafted for Saim Afzal -->
