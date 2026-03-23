@@ -63,6 +63,23 @@ const saim = {
 
 ---
 
+## 📈 Skill Levels
+
+```text
+JavaScript     ████████████████████░░░░   85%
+React          ███████████████████░░░░░   80%
+Next.js        ██████████████████░░░░░░   75%
+Tailwind CSS   ███████████████████░░░░░   80%
+HTML & CSS     █████████████████████░░░   90%
+Python         ████████████████░░░░░░░░   65%
+Machine Learning  █████████████░░░░░░░░   55%
+Deep Learning  ████████████░░░░░░░░░░░░   50%
+NLP            ████████████░░░░░░░░░░░░   50%
+Git & GitHub   ████████████████████░░░░   85%
+```
+
+---
+
 ## 📊 GitHub Analytics
 
 <div align="center">
@@ -81,53 +98,6 @@ const saim = {
 <div align="center">
   <img src="https://ghchart.rshah.org/7c3aed/saimafzal111" alt="Contribution Graph" width="100%"/>
 </div>
-
----
-
-## 🐍 Contribution Snake
-
-> **Setup required:** Go to your profile repo → **Actions** tab → enable workflows → add the snake workflow below.
-
-<div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/saimafzal111/saimafzal111/output/github-snake-dark.svg"/>
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/saimafzal111/saimafzal111/output/github-snake.svg"/>
-    <img alt="Snake animation" src="https://raw.githubusercontent.com/saimafzal111/saimafzal111/output/github-snake.svg"/>
-  </picture>
-</div>
-
-<details>
-<summary>⚙️ Click to setup Snake animation</summary>
-
-Create this file in your profile repo: `.github/workflows/snake.yml`
-
-```yaml
-name: Generate Snake
-
-on:
-  schedule:
-    - cron: "0 0 * * *"
-  workflow_dispatch:
-
-jobs:
-  generate:
-    runs-on: ubuntu-latest
-    steps:
-      - uses: Platane/snk@v3
-        with:
-          github_user_name: saimafzal111
-          outputs: |
-            dist/github-snake.svg
-            dist/github-snake-dark.svg?palette=github-dark
-      - uses: crazy-max/ghaction-github-pages@v3
-        with:
-          target_branch: output
-          build_dir: dist
-        env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-```
-
-</details>
 
 ---
 
