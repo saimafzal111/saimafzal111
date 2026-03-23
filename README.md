@@ -70,21 +70,64 @@ const saim = {
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=saimafzal111&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=a78bfa&text_color=c9d1d9"/>
 </div>
 
+<br/>
+
 <div align="center">
   <img src="https://nirzak-streak-stats.vercel.app/?user=saimafzal111&theme=tokyonight&hide_border=true&background=0d1117&ring=a78bfa&fire=a78bfa&currStreakLabel=a78bfa" />
 </div>
 
+<br/>
+
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=saimafzal111&theme=tokyo-night&hide_border=true&bg_color=0d1117&color=a78bfa&line=7c3aed&point=ffffff&area=true&area_color=7c3aed" width="100%"/>
+  <img src="https://ghchart.rshah.org/7c3aed/saimafzal111" alt="Contribution Graph" width="100%"/>
 </div>
 
 ---
 
-## 🏆 GitHub Trophies
+## 🐍 Contribution Snake
+
+> **Setup required:** Go to your profile repo → **Actions** tab → enable workflows → add the snake workflow below.
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=saimafzal111&theme=tokyonight&no-frame=true&no-bg=true&margin-w=6&column=6" />
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/saimafzal111/saimafzal111/output/github-snake-dark.svg"/>
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/saimafzal111/saimafzal111/output/github-snake.svg"/>
+    <img alt="Snake animation" src="https://raw.githubusercontent.com/saimafzal111/saimafzal111/output/github-snake.svg"/>
+  </picture>
 </div>
+
+<details>
+<summary>⚙️ Click to setup Snake animation</summary>
+
+Create this file in your profile repo: `.github/workflows/snake.yml`
+
+```yaml
+name: Generate Snake
+
+on:
+  schedule:
+    - cron: "0 0 * * *"
+  workflow_dispatch:
+
+jobs:
+  generate:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: Platane/snk@v3
+        with:
+          github_user_name: saimafzal111
+          outputs: |
+            dist/github-snake.svg
+            dist/github-snake-dark.svg?palette=github-dark
+      - uses: crazy-max/ghaction-github-pages@v3
+        with:
+          target_branch: output
+          build_dir: dist
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+```
+
+</details>
 
 ---
 
