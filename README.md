@@ -95,10 +95,6 @@ Git & GitHub   ████████████████████░�
 
 <br/>
 
-<div align="center">
-  <img src="https://ghchart.rshah.org/7c3aed/saimafzal111" alt="Contribution Graph" width="100%"/>
-</div>
-
 ---
 
 <div align="center">
