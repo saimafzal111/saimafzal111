@@ -89,10 +89,6 @@ Git & GitHub   ████████████████████░�
 
 <br/>
 
-<div align="center">
-  <img src="https://nirzak-streak-stats.vercel.app/?user=saimafzal111&theme=tokyonight&hide_border=true&background=0d1117&ring=a78bfa&fire=a78bfa&currStreakLabel=a78bfa" />
-</div>
-
 <br/>
 
 ---
