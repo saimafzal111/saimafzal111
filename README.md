@@ -83,9 +83,9 @@ Git & GitHub   ████████████████████░�
 
 ## 📊 GitHub Analytics
 
+<!-- GitHub Streak Stats -->
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=saimafzal111&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117&title_color=a78bfa&icon_color=a78bfa&text_color=c9d1d9"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=saimafzal111&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=a78bfa&text_color=c9d1d9"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=saimafzal111&theme=tokyonight&hide_border=true&background=0d1117&fire=ff79c6&currStreakLabel=a78bfa&sideLabels=c9d1d9" alt="Saim Afzal's GitHub streak" />
 </div>
 
 <br/>
