@@ -11,9 +11,8 @@
 <div align="center">
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/saim-afzal-2862a235a)&nbsp;
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white)](https://instagram.com/saimhere61)&nbsp;
-[![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:saimafzal142@gmail.com)&nbsp;
-[![Profile Views](https://komarev.com/ghpvc/?username=saimafzal111&style=flat-square&color=7c3aed&label=Profile+Views)](https://github.com/saimafzal111)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white)](https://www.instagram.com/_saim0111/)&nbsp;
+[![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:saimafzal142@gmail.com)
 
 </div>
 
