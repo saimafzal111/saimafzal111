@@ -171,7 +171,7 @@ A modern developer portfolio showcasing projects, expertise, and my engineering 
 
 <br>
 
-<img width="75%" src="https://github-readme-streak-stats.herokuapp.com/?user=saimafzal111&theme=tokyonight&hide_border=true&background=0D1117"/>
+<img width="75%" src="https://streak-stats.demolab.com?user=saimafzal111&theme=tokyonight&hide_border=true&background=0D1117"/>
 
 <br><br>
 
