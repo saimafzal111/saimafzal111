@@ -179,7 +179,7 @@ A modern developer portfolio showcasing projects, expertise, and my engineering 
 
 <br><br>
 
-<img width="100%" src="https://github-profile-trophy.vercel.app/?username=saimafzal111&theme=tokyonight&no-frame=true&no-bg=true&column=7&margin-w=6&margin-h=6"/>
+<!-- <img width="100%" src="https://github-profile-trophy.vercel.app/?username=saimafzal111&theme=tokyonight&no-frame=true&no-bg=true&column=7&margin-w=6&margin-h=6"/> -->
 
 </div>
 
