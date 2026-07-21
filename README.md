@@ -166,8 +166,8 @@ A modern developer portfolio showcasing projects, expertise, and my engineering 
 
 <div align="center">
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=saimafzal111&show_icons=true&rank_icon=github&include_all_commits=true&count_private=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=58A6FF"/>
-<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=saimafzal111&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF"/>
+<!-- <img width="49%" src="https://github-readme-stats.vercel.app/api?username=saimafzal111&show_icons=true&rank_icon=github&include_all_commits=true&count_private=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=58A6FF"/>
+<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=saimafzal111&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF"/> -->
 
 <br>
 
